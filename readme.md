@@ -24,3 +24,4 @@ docker compose exec web composer update
 
 # Note:
 > You can add any post launch command in the init.sh file which runs just after docker instance is launched
+> Open http://localhost to see the php response from the web app
